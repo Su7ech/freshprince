@@ -1,0 +1,10 @@
+body {
+	background-color: orange;
+}
+h1 {
+	color: red;
+}
+h1, p {
+	text-align: center;
+	font-family: sans-serif;
+}
